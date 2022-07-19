@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "969668777301",
+    "project_id": "sarimsapp",
+    "storage_bucket": "sarimsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969668777301:android:a361f972c2566a1ff3cbdc",
+        "android_client_info": {
+          "package_name": "com.tunahankalayci.garlicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969668777301-fi56qa9vg14qtbvl0bu6b4f50r93icv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqcVt2USskIWRopnWwD4D_uxToAjGFclA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969668777301-fi56qa9vg14qtbvl0bu6b4f50r93icv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

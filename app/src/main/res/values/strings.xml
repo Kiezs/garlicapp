@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sarimsapp</string>
+    <string name="e_mail">E-mail</string>
+    <string name="kay_t_ol">kayıt ol</string>
+    <string name="giri">giriş</string>
+    <string name="isim">İsim</string>
+    <string name="todo">TODO</string>
+    <string name="cıkıs_yap">Çıkış yap</string>
+    <string name="close">kapat</string>
+    <string name="open">aç</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
